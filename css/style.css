@@ -6,6 +6,9 @@
 
 body {
   background: #046380;
+  width: 55%;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 h1, h2, h3 {
